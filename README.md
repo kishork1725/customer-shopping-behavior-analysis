@@ -4,7 +4,7 @@ An end-to-end **Data Analytics project** that analyzes customer shopping behavio
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes transactional data containing **3,900 customer purchases** across different product categories.
 
@@ -21,7 +21,7 @@ The main objective is to transform raw customer shopping data into meaningful bu
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -33,7 +33,7 @@ The main objective is to transform raw customer shopping data into meaningful bu
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains **3,900 rows and 18 columns**.
 
@@ -61,7 +61,7 @@ There were **37 missing values in the Review Rating column**, which were handled
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Raw Dataset
@@ -83,7 +83,7 @@ Business Insights & Recommendations
 
 ---
 
-## 🐍 1. Data Cleaning & Preparation
+##  1. Data Cleaning & Preparation
 
 Python and Pandas were used for data preparation and exploratory analysis.
 
@@ -102,7 +102,7 @@ Python and Pandas were used for data preparation and exploratory analysis.
 
 ---
 
-## 🗄️ 2. MySQL & SQL Analysis
+##  2. MySQL & SQL Analysis
 
 The cleaned data was loaded into **MySQL** and SQL queries were used to answer important business questions.
 
@@ -143,7 +143,7 @@ The cleaned data was loaded into **MySQL** and SQL queries were used to answer i
 
 ---
 
-## 📈 3. Power BI Dashboard
+##  3. Power BI Dashboard
 
 An interactive **Customer Behavior Dashboard** was developed using Power BI.
 
@@ -167,7 +167,7 @@ The dashboard provides an interactive way to explore customer behavior and ident
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 The analysis identified several useful business insights:
 
@@ -180,7 +180,7 @@ The analysis identified several useful business insights:
 
 ---
 
-## 🎯 Business Recommendations
+##  Business Recommendations
 
 ### 1. Boost Subscriptions
 Promote exclusive benefits and offers to increase the number of subscribers.
@@ -200,7 +200,7 @@ Focus marketing campaigns on high-revenue age groups and customers using Express
 ---
 
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -219,7 +219,7 @@ Focus marketing campaigns on high-revenue age groups and customers using Express
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Kishor Khandagle**
 
